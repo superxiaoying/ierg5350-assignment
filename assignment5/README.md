@@ -1,6 +1,6 @@
 # IERG 5350 Assignment 5: Reinforcement Learning Pipeline in Practice
 
-**Due: 11:59 pm, November 27 (Friday night), 2020**
+**Due: 11:59 pm, December 4 (Friday night), 2020**
 
 **We will hold a tournament for all submitted agents. Any overdue submission will lose the opportunity to join the tournament (and the credits with that).**
 
