@@ -1,4 +1,4 @@
-# IERG 5350: Reinforcement Learning and Beyond
+# IERG 5350: Reinforcement Learning
 
 Welcome! This is the codebase for assignments of our reinforcement learning (RL) course. 
 
